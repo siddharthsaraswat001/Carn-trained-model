@@ -1,0 +1,8 @@
+PyTorch
+torchvision
+Numpy
+Scipy
+Pillow
+Scikit-image
+h5py
+importlib
